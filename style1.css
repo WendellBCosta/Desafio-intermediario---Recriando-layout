@@ -1,0 +1,18 @@
+* { 
+    margin:0;
+    padding: 0;    
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #7202db;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
